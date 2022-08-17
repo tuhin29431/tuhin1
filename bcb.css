@@ -1,0 +1,21 @@
+.t1{
+    color: orangered;
+    text-align: center;
+    background: black;
+    font-size: 50px;
+}
+.t2{
+    text-align: center;
+    color: blue;
+}
+.t3{
+    text-align: center;
+}
+.t4{
+    color: red;
+    text-align: center;
+}
+.t5{
+    text-align: center;
+    color: rgb(15, 15, 15);
+}
